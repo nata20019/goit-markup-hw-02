@@ -53,11 +53,11 @@ body {
   color: #404bbf;
 }
 .adress-header {
+  font-style: normal;
 }
 .page-adress {
 }
-.link-adress,
-.tel-adress {
+.adress {
   color: #434455;
   font-family: Roboto;
   font-style: normal;
@@ -66,10 +66,8 @@ body {
   line-height: 1.5;
   letter-spacing: 0.32px;
 }
-.link-adress:hover,
-.link-adress:focus,
-.tel-adress:hover,
-.tel-adress:focus {
+.adress:hover,
+.adress:focus {
   color: #404bbf;
 }
 .central-block {
@@ -131,10 +129,10 @@ body {
   letter-spacing: 0.32px;
 }
 .page-team {
-  background: #f4f4fd;
+  background-color: #f4f4fd;
 }
 .list-first {
-  background-color: #f4f4fd;
+  background-color: #ffffff;
 }
 .list-foto {
   background: #f4f4fd;
